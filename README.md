@@ -1,2 +1,1 @@
-# CoinAiSystemLabsPro
-Advanced CoinAiSystemLabsPro project
+.
